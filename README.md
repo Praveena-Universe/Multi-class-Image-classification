@@ -1,6 +1,7 @@
 # Multi-class-Image-classification
 
 Data Source: https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
+
 Download the dataset to local machine
 
 # README for Image Classification using SVM
