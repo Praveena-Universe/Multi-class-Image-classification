@@ -32,7 +32,7 @@ project/
 The dataset is stored in the `data/` folder. Each subfolder represents a class and contains corresponding image files.
 
 ### Key Scripts
-### Key Note: Conver the ipynb files to py before running scripts for a complete flow of each file
+### Key Note: Convert the ipynb files to py before running scripts for a complete flow of each file
 1. **svm_without_preprocessing.py**  
    Implements SVM without any preprocessing or balancing. It directly uses the raw grayscale and resized images for training and testing.  
 
